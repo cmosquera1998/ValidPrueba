@@ -1,2 +1,1 @@
-# ValidPrueba
-Para el desarrollo de esta prueba se utilizo la arquitectura por capas, basada en el patrón de diseño Modelo-Vista-Controlador, bajo el lenguaje de programación Java 8.  Capa de presentación : para la capa de presentación se utilizo HTML 5 Y Bootstrap para los estilos. Capa lógica del negocia: para la capa de lógica de negocio se trabajo bajo los patrones de Spring MVC . Capa de acceso a datos: para esta capa se utilizo JPA basándose en una base de datos H2.
+# pruebaValid
